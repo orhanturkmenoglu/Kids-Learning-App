@@ -18,5 +18,5 @@
 
 -Enstrüman
 
+#Olmak üzere her bir kategoriden ortalama 10-25 adet örnek bulunmaktadır.
 
-#Uygulaması geliştirilmiştir.
